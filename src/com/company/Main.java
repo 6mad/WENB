@@ -8,6 +8,7 @@ public class Main {
     System.out.println("这里是"+two.getId());
     System.out.println();
     two.maTable();
+    
     }
 
 }
